@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Gourma Rharous",
+      "country": "ML",
+      "emoji": "🇲🇱",
+      "date": "2024-01-28T15:00:46.533Z",
+      "notes": "",
+      "position": {
+        "lat": "16.46769474828897",
+        "lng": "-2.2851562500000004"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Kuntanasi",
+      "country": "GH",
+      "emoji": "🇬🇭",
+      "date": "2024-01-28T15:49:50.895Z",
+      "notes": "",
+      "position": {
+        "lat": "6.599130675207247",
+        "lng": "-1.40625"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Matiakoali",
+      "country": "BF",
+      "emoji": "🇧🇫",
+      "date": "2024-01-28T15:49:56.470Z",
+      "notes": "",
+      "position": {
+        "lat": "12.340001834116316",
+        "lng": "0.9008789062500001"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Accra",
+      "country": "GH",
+      "emoji": "🇬🇭",
+      "date": "2024-01-28T16:24:17.389Z",
+      "notes": "",
+      "position": {
+        "lat": "5.725311447610156",
+        "lng": "-0.10986328125000001"
+      },
+      "id": 98443211
+    }
+  ]
+}
